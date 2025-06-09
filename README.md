@@ -28,9 +28,9 @@ Adventure Works (Microsoft sample dataset)
  **Note**  
 For best experience, open the Power BI file in Power BI Desktop version 2.123 or higher.
 
- **Legal Notice**  
+ Legal Notice:
 The Adventure Works dataset is a sample dataset provided by Microsoft for learning and demonstration purposes.  
-**All rights to the dataset and original content are reserved by Microsoft Corporation.**
+All rights to the dataset and original content are reserved by Microsoft Corporation.
 ----
 
  **Business Questions Answered**
