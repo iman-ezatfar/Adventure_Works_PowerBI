@@ -3,8 +3,8 @@
  **Dashboard Snapshot**  
 Adventure Works Interactive Sales Dashboard
 
-🎥 **Demo Video**  
-[▶️ Watch the Dashboard Demo](https://youtu.be/9d80mxTB42A) <!-- Replace with your actual video link -->
+ **Demo Video**  
+[ Watch the Dashboard Demo](https://youtu.be/9d80mxTB42A) <!-- Replace with your actual video link -->
 
 ![Dashboard Image](https://github.com/user-attachments/assets/30658369-cda7-4431-93eb-d1007d745326)
  <!-- Replace with your actual image path -->
